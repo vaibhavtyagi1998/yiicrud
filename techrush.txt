@@ -7,5 +7,10 @@ PHP
 MYSQL
 Java
 
+.net
+database
+azure
+
 
 final
+
