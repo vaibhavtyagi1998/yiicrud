@@ -1,3 +1,7 @@
 
 
 There are different types of courses available
+c
+c++
+PHP
+MYSQL
