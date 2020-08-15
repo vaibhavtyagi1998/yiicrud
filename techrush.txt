@@ -6,3 +6,7 @@ c++
 PHP
 MYSQL
 Java
+
+.net
+database
+azure
